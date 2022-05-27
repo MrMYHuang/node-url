@@ -1,8 +1,8 @@
 {
-  "name": "url",
+  "name": "url-myh",
   "description": "The core `url` packaged standalone for use with Browserify.",
-  "version": "0.11.0",
-  "author": "defunctzombie",
+  "version": "0.11.2",
+  "author": "Meng-Yuan Huang (myh@live.com)",
   "dependencies": {
     "punycode": "^1.4.1",
     "querystring": "0.2.0"

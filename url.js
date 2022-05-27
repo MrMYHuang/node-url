@@ -771,3 +771,4 @@ exports.resolveObject = urlResolveObject;
 exports.format = urlFormat;
 
 exports.Url = Url;
+exports.URL = window.URL;
